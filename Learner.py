@@ -4,6 +4,7 @@ import threading
 import time
 
 discount = 0.3
+#importing just possible actions in World
 actions = World.actions
 states = []
 Q = {}
